@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Data Security repository! This repository contains essential information and scripts to help you through your Microsoft Information Protection and Azure Purview Journey.
 
+NOTE: This repository is not updated anymore.
+
 
 ## Contributing
 
